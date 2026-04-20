@@ -1,0 +1,24 @@
+h1 {
+    color: #166081;
+    font-size: large;
+    font-family: 'Arial', sans-serif;
+}
+
+footer {
+    background-color: #2196B9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.card {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+}
+
+card.hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease-in-out;
+}
