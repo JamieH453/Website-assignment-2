@@ -1,8 +1,17 @@
-h1 {
-    color: #166081;
+h1{
+    color: #ffffff;
     font-size: large;
     font-family: 'Arial', sans-serif;
 }
+
+header {
+background-color: #2196B9;
+color: white;
+text-align: center;
+padding:10px;
+}
+
+
 
 footer {
     background-color: #2196B9;
@@ -18,7 +27,42 @@ footer {
     margin: 20px;
 }
 
-card.hover {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: box-shadow 0.3s ease-in-out;
+
+nav {
+    width: 100%;
+    box-sizing: border-box;
+    color: white;
+    background-color: #82b7c7;
+    padding: 10px;
+    align-items: center;
+    
 }
+
+
+hr{
+    border: none;
+    height: 5px;
+    background-color: #ffffff;
+}
+
+
+
+
+h2{
+    color: #000000;
+    font-size: large;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+p{
+    color:#000000;
+    font-size: small;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+
+
+
+
